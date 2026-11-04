@@ -6,12 +6,12 @@
         "openHours": "7:00 am - 10:00 pm",    
         "isOpen": true,    
         "menu": [      
-            { "id": "2418986-m1", "name": "Nasi Lemak Ayam", "description": "...", "price": "7.5", "category": "Rice", 
-"available": true },      
-            { "id": "2418986-m2", "name": "Spaghetti Carbonara", "description": "...", "price": "8", "category": "Pasta", 
-"available": true },      
-            { "id": "2418986-m3", "name": "Iced Lemon Tea", "description": "...", "price": "2.5", "category": "Drinks", 
-"available": false } 
+            { "id": "2418986-m1", "name": "Nasi Lemak Ayam", "description": "...", "price": 7.5, "category": "Rice", 
+"available": true, "tags": ["Halal", "Spicy", "Contains nuts"] },      
+            { "id": "2418986-m2", "name": "Spaghetti Carbonara", "description": "...", "price": 8, "category": "Pasta", 
+"available": true, "tags": ["Halal", "Contains seafood"] },      
+            { "id": "2418986-m3", "name": "Iced Lemon Tea", "description": "...", "price": 2.5, "category": "Drinks", 
+"available": false, "tags": ["Halal"] } 
    ]  
 },
 {    
@@ -21,8 +21,8 @@
     "openHours": "7:00 am - 10:00 pm",    
     "isOpen": true,    
     "menu": [      
-        { "id": "2419452-m1", "name": "Nasi Ayam Penyet", "description": "Smashed fried chicken with sambal and rice", "price": "10.9", "category": "Rice", "available": true },      
-        { "id": "2419452-m2", "name": "Kopi Vietnam", "description": "Strong Vietnamese coffee brewed with condensed milk", "price": "5", "category": "Drinks", "available": true }
+        { "id": "2419452-m1", "name": "Nasi Ayam Penyet", "description": "Smashed fried chicken with sambal and rice", "price": 10.9, "category": "Rice", "available": true, "tags": ["Halal", "Spicy"] },      
+        { "id": "2419452-m2", "name": "Kopi Vietnam", "description": "Strong Vietnamese coffee brewed with condensed milk", "price": 5, "category": "Drinks", "available": true, "tags": ["Halal", "Dairy"] }
     ]
   }
 ]  
