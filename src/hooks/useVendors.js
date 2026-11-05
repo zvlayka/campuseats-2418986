@@ -1,4 +1,3 @@
-// src/hooks/useVendors.js
 import { useEffect, useState } from "react";
 
 export function useVendors() {

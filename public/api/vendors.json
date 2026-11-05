@@ -6,14 +6,27 @@
         "openHours": "7:00 am - 10:00 pm",    
         "isOpen": true,    
         "menu": [      
-            { "id": "2418986-m1", "name": "Nasi Lemak Ayam", "description": "...", "price": 7.5, "category": "Rice", 
+            { "id": "2418986-m1", "name": "Nasi Lemak Ayam", "description": "Coconut rice with crispy fried chicken, sambal, boiled egg and roasted peanuts", "price": 7.5, "category": "Rice", 
 "available": true, "tags": ["Halal", "Spicy", "Contains nuts"] },      
-            { "id": "2418986-m2", "name": "Spaghetti Carbonara", "description": "...", "price": 8, "category": "Pasta", 
+            { "id": "2418986-m2", "name": "Spaghetti Carbonara", "description": "Creamy spaghetti carbonara with prawns, mushrooms and parmesan", "price": 8, "category": "Pasta", 
 "available": true, "tags": ["Halal", "Contains seafood"] },      
-            { "id": "2418986-m3", "name": "Iced Lemon Tea", "description": "...", "price": 2.5, "category": "Drinks", 
-"available": false, "tags": ["Halal"] } 
-   ]  
+            { "id": "2418986-m3", "name": "Iced Lemon Tea", "description": "Freshly brewed black tea with lemon juice with ice", "price": 2.5, "category": "Drinks", 
+"available": false, "tags": ["Halal"] },
+            { "id": "2418986-m4", "name": "Nasi Goreng Kampung", "description": "Fried rice with anchovies and chilli", "price": 6.5, "category": "Rice", 
+"available": true, "tags": ["Halal", "Spicy", "Contains seafood"] },
+            { "id": "2418986-m5", "name": "Aglio Olio Prawn", "description": "Spaghetti tossed in garlic, olive oil, chilli flakes and prawns", "price": 9, "category": "Pasta", 
+"available": true, "tags": ["Halal", "Spicy", "Contains seafood"] },
+            { "id": "2418986-m6", "name": "Mac and Cheese", "description": "Baked macaroni in a three-cheese sauce", "price": 7, "category": "Pasta", 
+"available": true, "tags": ["Halal", "Vegetarian", "Dairy"] },
+            { "id": "2418986-m7", "name": "Teh Tarik", "description": "Milk tea served with hot or iced", "price": 2.8, "category": "Drinks", 
+"available": true, "tags": ["Halal", "Dairy"] },
+            { "id": "2418986-m8", "name": "Chocolate Lava Cake", "description": "Chocolate cake with a molten centre", "price": 6, "category": "Desserts", 
+"available": true, "tags": ["Halal", "Vegetarian", "Dairy"] },
+            { "id": "2418986-m9", "name": "Pisang Goreng Cheese", "description": "Fried banana fritters topped with grated cheese and chocolate", "price": 5, "category": "Desserts", 
+"available": true, "tags": ["Halal", "Vegetarian", "Dairy"] }
+]
 },
+
 {    
     "id": "2419452-ayu",    
     "name": "Ayu's Cafe",    
